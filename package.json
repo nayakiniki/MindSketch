@@ -1,0 +1,16 @@
+{
+  "name": "mindsketch",
+  "version": "1.0.0",
+  "description": "Voice-to-Concept-Mapping AI Tool",
+  "main": "index.html",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["voice", "ai", "mindmap", "speech-recognition"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
